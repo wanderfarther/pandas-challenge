@@ -1,0 +1,18 @@
+I used this to help me remember all 
+https://regenerativetoday.com/30-very-useful-pandas-functions-for-everyday-data-analysis-tasks/
+
+I used the first example of how to create a data frame to create the district_summary data frame. 
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
+
+I used this to help remove repeat rows trying to find the school and school type.
+https://sparkbyexamples.com/pandas/pandas-drop-duplicate-rows-from-dataframe/?expand_article=1
+
+I needed a lot of help understanding groupby...
+https://www.geeksforgeeks.org/python-pandas-dataframe-groupby/
+https://www.geeksforgeeks.org/pandas-groupby-value-counts-on-the-dataframe/
+http://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html#iterating-through-groups
+https://www.geeksforgeeks.org/pandas-groupby/
+
+This youtube video is where I learned the use of .groupby().agg{}. I used the code while figuring the mean, median, variance, standard deviation, and standard error. 
+https://www.youtube.com/watch?v=VRmXto2YA2I
+
